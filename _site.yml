@@ -1,0 +1,21 @@
+output_dir: "."
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    mathjax: null
+    toc_depth: 3
+    toc_float:
+      collapsed: false
+name: "my-website"
+navbar:
+  title: ""
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Resume"
+      href: files/Adam Gorski Resume.pdf
+      
+  right:
+    - icon: fa-github fa-lg 
+      href: http://github.com/goughgorski
