@@ -14,7 +14,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Resume"
-      href: files/Adam Gorski Resume.pdf
+      href: files/Adam_Gorski_Resume.pdf
       
   right:
     - icon: fa-github fa-lg 
