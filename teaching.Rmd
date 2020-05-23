@@ -1,0 +1,41 @@
+---
+title: ""
+output:
+  html_document:
+    css:  index.css
+---
+<br>
+<br>
+<br>
+
+
+# <u>Fall 2020</u>
+<br>
+
+### ECON 691: Special Topics in Natural Language Processing
+
+#### This fall I'll be teaching a special topics class on natural language processing for the first time. I've outlined the course, starting on lesson plans soon. ####
+<br>
+<br>
+
+# <u>Spring 2020</u>
+<br>
+
+### ECON 620: Graduate Econometrics
+<br>
+
+### ECON 280: The Global Economy
+<br>
+<br>
+
+# <u>Intersession 2020</u>
+<br>
+
+### ECON 620: Data Science for Economics
+<br>
+<br>
+
+# <u>Fall 2019</u>
+<br>
+
+### ECON 280: The Global Economy

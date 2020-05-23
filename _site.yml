@@ -1,7 +1,7 @@
 output_dir: "."
 output:
   html_document:
-    theme: yeti
+    theme: flatly
     highlight: textmate
     mathjax: null
     toc_depth: 3
@@ -13,7 +13,11 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Resume"
+    - text: "Data Work"
+      href: data_work.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "CV"
       href: files/Adam_Gorski_Resume.pdf
       
   right:
